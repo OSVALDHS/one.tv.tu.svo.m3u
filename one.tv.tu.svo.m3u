@@ -1,0 +1,85 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="Первый канал" tvg-logo="https://i.imgur.com/1IqCGe9.png"  group-title="Russia", Первый канал
+#EXTGRP:Russia
+http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8?version=2
+
+#EXTINF:-1 tvg-name="Первый канал Евразия"  tvg-logo="https://i.imgur.com/1IqCGe9.png" group-title="Russia", Первый канал Евразия
+#EXTGRP:Russia
+https://sc.id-tv.kz/1KanalEvraziya_34_35.m3u8
+
+#EXTINF:-1 tvg-name="Россия 1" tvg-logo="https://i.imgur.com/WI6hKez.png" group-title="Russia", Россия 1
+#EXTGRP:Russia
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/bw2000000/variant.m3u8?version=2
+
+#EXTINF:-1 tvg-name="Россия 24" tvg-logo="https://i.imgur.com/tpqsFzm.png" group-title="Russia", Россия 24
+#EXTGRP:Russia
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/bw2000000/variant.m3u8?version=2
+
+#EXTINF:-1 tvg-name="Россия К 2" tvg-logo="https://i.imgur.com/S12gaLc.png" group-title="Russia", Россия К 2
+#EXTGRP:Russia
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/bw2000000/variant.m3u8?version=2
+
+#EXTINF:-1 tvg-name="Новороссия ТВ" group-title="Russia", Новороссия ТВ
+#EXTGRP:Russia
+http://ott.inmart.tv:8081/19/index.m3u8
+
+#EXTINF:-1 tvg-name="НТВ+ Спорт" tvg-logo="https://i.imgur.com/DtQX5P2.png" group-title="Russia", НТВ+ Спорт
+#EXTGRP:Russia
+https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
+
+#EXTINF:-1 tvg-name="НТВ Мир" tvg-logo="https://i.imgur.com/DtQX5P2.png" group-title="Russia", НТВ Мир
+#EXTGRP:Russia
+http://92.46.127.146:8080/ntv-L3-TRANS/index.m3u8
+
+#EXTINF:-1 tvg-name="НТВ Стиль" tvg-logo="https://i.imgur.com/DtQX5P2.png" group-title="Russia", НТВ Стиль
+#EXTGRP:Russia
+http://ott-cdn.ucom.am/s77/04.m3u8
+
+#EXTINF:-1 tvg-name="Пятый канал" tvg-logo="https://i.imgur.com/u8Q69D9.png" group-title="Russia", Пятый канал
+#EXTGRP:Russia
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/bw2000000/variant.m3u8?version=2
+
+#EXTINF:-1 tvg-name="Пятый Канал (okko tv)" tvg-logo="https://i.imgur.com/u8Q69D9.png" group-title="Russia", Пятый Канал (okko tv)
+#EXTGRP:Russia
+https://okkotv-live.cdnvideo.ru/channel/5_OTT.m3u8
+
+#EXTINF:-1 tvg-name="РБК 1" group-title="Russia", РБК 1
+#EXTGRP:Russia
+http://92.50.128.180/utv/1358/index.m3u8
+
+#EXTINF:-1 tvg-name="ОТР" tvg-logo="https://i.imgur.com/QyZvT3e.png" group-title="Russia", ОТР
+#EXTGRP:Russia
+http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/bw2000000/variant.m3u8?version=2
+
+#EXTINF:-1 tvg-name="ТВ Центр" tvg-logo="https://i.imgur.com/ZP0D6Rd.png" group-title="Russia", ТВ Центр
+#EXTGRP:Russia
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/bw2000000/variant.m3u8?version=2
+
+#EXTINF:-1 tvg-name="РЕН ТВ" tvg-logo="https://i.imgur.com/18TAzYV.png"" group-title="Russia", РЕН ТВ
+#EXTGRP:Russia
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/bw2000000/variant.m3u8?version=2
+
+#EXTINF:-1 tvg-name="СТС" tvg-logo="https://i.imgur.com/y9bpqUD.png" group-title="Russia", СТС
+#EXTGRP:Russia
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/bw2000000/variant.m3u8?version=2
+
+#EXTINF:-1 tvg-name="Пятница!" tvg-logo="https://i.imgur.com/rS11zVB.png" group-title="Russia", Пятница!
+#EXTGRP:Russia
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/bw2000000/variant.m3u8?version=2
+
+#EXTINF:-1 tvg-name="Звезда" tvg-logo="https://i.imgur.com/c0L0ncA.png" group-title="Russia", Звезда
+#EXTGRP:Russia
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/bw2000000/variant.m3u8?version=2
+
+#EXTINF:-1 tvg-name="Мир (+4)" tvg-logo="https://i.imgur.com/L2slsbG.png" group-title="Russia", Мир (+4)
+#EXTGRP:Russia
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
+
+#EXTINF:-1 tvg-name="ТНТ"  tvg-logo="https://i.imgur.com/1WqIPOB.png" group-title="Russia", ТНТ
+#EXTGRP:Russia
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/bw2000000/variant.m3u8?version=2
+
+#EXTINF:-1 tvg-name="Известия" group-title="Russia", Известия
+#EXTGRP:Russia
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
